@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Jotham, a CS undergraduate at NUS. 
+
+I'm passionate about a career at the intersection of academia and industry. I hope to pursue a PhD at the University of Washington, Seattle. 
+
 <!--
 **JothamWong/JothamWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
